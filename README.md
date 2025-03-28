@@ -16,21 +16,8 @@ User-friendly UI with a modern, sleek design.
 
 📂 Folder Structure
 
-📦 average-calculator
-├── 📂 src
-│   ├── 📂 api
-│   │   └── api.js        # Handles API requests
-│   ├── 📂 components
-│   │   ├── NumberFetcher.js  # Dropdown & Fetch button
-│   │   ├── NumberList.js     # Displays fetched numbers & average
-│   ├── 📂 pages
-│   │   └── Home.js      # Main page layout
-│   ├── 📂 styles
-│   │   └── styles.css   # Modern UI styling
-│   ├── App.js          # Root component
-│   ├── index.js        # Entry point
-├── package.json        # Dependencies & scripts
-├── README.md           # Project documentation
+![image](https://github.com/user-attachments/assets/105c7d2b-685b-4993-b23d-cd7b0a7b6571)
+
 
 ## 📸 Screenshots
 
