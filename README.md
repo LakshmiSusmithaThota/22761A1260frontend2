@@ -32,6 +32,24 @@ User-friendly UI with a modern, sleek design.
 ├── package.json        # Dependencies & scripts
 ├── README.md           # Project documentation
 
+## 📸 Screenshots
+
+### 📊 Numbers Fetched & Average
+![Numbers & Average]
+
+(https://github.com/LakshmiSusmithaThota/22761A1260frontend2/blob/main/output2.png?raw=true)
+
+(https://github.com/LakshmiSusmithaThota/22761A1260frontend2/blob/main/output3.png?raw=true)
+
+(https://github.com/LakshmiSusmithaThota/22761A1260frontend2/blob/main/output4.png?raw=true)
+
+
+
+
+
+
+
+
 🔧 Installation & Setup
 
 # Clone the repository
