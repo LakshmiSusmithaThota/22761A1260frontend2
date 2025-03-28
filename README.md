@@ -37,11 +37,10 @@ User-friendly UI with a modern, sleek design.
 ### 📊 Numbers Fetched & Average
 ![Numbers & Average]
 
-(https://github.com/LakshmiSusmithaThota/22761A1260frontend2/blob/main/output2.png?raw=true)
+![image](https://github.com/user-attachments/assets/28009f14-1bab-4689-a109-d36254de638a)
 
-(https://github.com/LakshmiSusmithaThota/22761A1260frontend2/blob/main/output3.png?raw=true)
 
-(https://github.com/LakshmiSusmithaThota/22761A1260frontend2/blob/main/output4.png?raw=true)
+![image](https://github.com/user-attachments/assets/e2e06b67-92b4-4d7a-b780-8e242b0f3ec0)
 
 
 
